@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Custom Directive in Angular](https://vjtechdiary.blogspot.com/2019/09/custom-directive-in-angular.html) on [VJ Tech Diary](https://vjtechdiary.blogspot.com). 
+Read tutorial [Custom Directive in Angular](https://www.vjtechworld.com/2019/09/custom-directive-in-angular.html) on [VJ Tech World](https://www.vjtechworld.com). 
 
 ## Install Dependencies
 
